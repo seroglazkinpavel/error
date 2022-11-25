@@ -1,2 +1,2 @@
 # error-handling
-error handling using the java example
+error_handling
