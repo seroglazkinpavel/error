@@ -5,7 +5,6 @@
 
 public class task_1 {
     public static void main(String[] arg) {
-
         solution(5, 10, 1);
         // solution(5, 7, 9);
         // solution(0, 7, 9);
